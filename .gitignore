@@ -22,6 +22,9 @@ bad_code.py
 test/mlruns/*
 # Jenkins Files
 jenkins/jenkins-admin-password.txt
+creds.txt
+.ipython/
+set_registry_creds.sh
 
 # Jupyter Files
 .bash_history
@@ -29,3 +32,5 @@ jenkins/jenkins-admin-password.txt
 .jupyter/*
 .local/*
 **/.ipynb_checkpoints/*
+.gitignore
+.gitconfig
